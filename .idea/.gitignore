@@ -1,4 +1,5 @@
 # Default ignored files
 /workspace.xml
-/out
+out/*
 .idea
+vcs.xml
